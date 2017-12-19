@@ -254,6 +254,12 @@ For the k-means clustering graph, we choose k = 12 as there are 12 different Pol
 
 From the desity graphs, the trend becomes much more clear, as we see that there are some huge areas of high density around the South Boston and downtown Boston, and as we move forward, the South Boston crime density decreases to some extend. However, the Boston downtwon remains to be a "popular spots" for serious crimes.
 
+## Conclusion
+Public safety has always been a focus point of general public. As a conclusion, we see that there is a decreasing trend as we move along from 2013 to 2017, which shows an improvement of overall security. However, throughout the five years, the downtown of Boston still has a tremendous amount of crime density, and there is also an overwhelming number of serious crimes on Washington street. All these phenomenons should be called attention to the Boston Police Departments.
+
+## Shiny App Deployment
+The Shiny App deployment can be found at the link
+https://ll0406.shinyapps.io/shiny/
 
 
 
